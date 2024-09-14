@@ -8,7 +8,7 @@
 
 ⚡ Fun fact:<br />
       🧠 **Curious mind**: I have habit of googling random facts at 3 AM -Did you know an octopus has three hearts?<br />
-      🤭 **humorous**: Do you know what's called line? -When dot '.' goes walking its called line '____'.<br />
+      🤭 **humorous**: Do you know what's called line? -When dot ' . ' goes walking its called line '____'.<br />
 
 ## 📫 Let’s Connect!
 
