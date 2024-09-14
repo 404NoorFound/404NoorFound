@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Noor!
 
-<!--
-**404NoorFound/404NoorFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 An enthusiastic undergrad majoring in Computer Science and Engineering.
 
-Here are some ideas to get you started:
+🚀 Tech Enthusiast | 💻 Coder | 📚 Lifelong Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I'm currently working on learning C programming language, and building useful projects for daily life.
+
+⚡ Fun fact:
+    - 🧠 **Curious mind**: I have habit of googling random facts at 3 AM -Did you know an octopus has three hearts?
+    - 🤭 **humorous**: Do you know what's called line? -When dot '.' goes walking its called line '____'.
+
+## 📫 Let’s Connect
+
