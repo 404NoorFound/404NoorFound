@@ -1,12 +1,12 @@
-## 👋 Hi, I'm Noor!
+## 👋 Hi, I'm Noor!<br />
 
-🎓 An enthusiastic undergrad majoring in Computer Science and Engineering.
+🎓 An enthusiastic undergrad majoring in Computer Science and Engineering.<br />
 
-🚀 Tech Enthusiast | 💻 Coder | 📚 Lifelong Learner
+🚀 Tech Enthusiast | 💻 Coder | 📚 Lifelong Learner<br />
 
-🔭 I'm currently working on learning C programming language, and building useful projects for daily life.
+🔭 I'm currently working on learning C programming language, and building useful projects for daily life.<br />
 
-⚡ Fun fact:
+⚡ Fun fact:<br />
       🧠 **Curious mind**: I have habit of googling random facts at 3 AM -Did you know an octopus has three hearts?<br />
       🤭 **humorous**: Do you know what's called line? -When dot '.' goes walking its called line '____'.<br />
 
