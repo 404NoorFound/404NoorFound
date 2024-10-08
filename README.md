@@ -2,7 +2,7 @@
 
 🎓 An enthusiastic undergrad majoring in Computer Science and Engineering.
 
-🔭 I'm currently working on learning C programming language, and building useful projects for daily life.<br />
+🔭 I'm currently learning Java, and building useful projects for daily life.<br />
 
 ⚡ Fun fact:<br />
       🧠 **Curious mind**: I have habit of googling random facts at 3 AM -Did you know an octopus has three hearts?<br />
